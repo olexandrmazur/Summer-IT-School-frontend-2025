@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+.error {
+    font-size: 50px;
+}
+.error-massage {
+    font-size: 20px;
+}

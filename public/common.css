@@ -1,0 +1,13 @@
+body {
+   background: aquamarine;
+}
+.header {
+   color: black;
+   text-align: center;
+   font-size: 46px;
+}
+.button {
+   background: azure;
+   width: 200px;
+   height: 30px;
+}
