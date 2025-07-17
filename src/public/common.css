@@ -1,0 +1,35 @@
+html, body {
+   margin: 0;
+   padding: 0;
+   height: 100%;
+   font-family: Arial, sans-serif;
+}
+
+.top-bar, .bottom-bar {
+   background-color: maroon;
+   color: white;
+   padding: 15px 20px;
+   box-sizing: border-box;
+   text-align: center;
+   font-weight: bold;
+   font-size: 18px;
+}
+
+main {
+   background-color: darkgray;
+   min-height: calc(100vh - 90px);
+   padding: 20px;
+   box-sizing: border-box;
+}
+.button {
+   background: darkgoldenrod;
+   color: white;
+   width: 200px;
+   height: 50px;
+}
+.head {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 50px;
+}

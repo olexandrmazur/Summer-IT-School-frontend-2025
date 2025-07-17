@@ -1,0 +1,9 @@
+.main  {
+    padding-top: 30px;
+    padding-left: 150px;
+}
+.image {
+    border: 3px solid black;
+    width: 800px;
+    height: 500px;
+}
