@@ -1,0 +1,17 @@
+.main  {
+    padding-top: 30px;
+    padding-left: 150px;
+}
+.container {
+    padding-top: 50px;
+    width: 100%;
+    overflow: hidden;
+}
+.left {
+    float: left;
+    width: 37%;
+}
+.right {
+    float: right;
+    width: 37%;
+}
